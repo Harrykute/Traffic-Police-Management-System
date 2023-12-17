@@ -47,10 +47,8 @@ The system is designed to detect stolen vehicles using QR codes and provides a v
 
 ## System Architecture
    ![image](https://github.com/Harrykute/Traffic-Police-Management-System/assets/112796233/9da3ca09-6c08-4c8c-8797-a13c7228654e)
-
-  
-
-##System Requirements
+   
+## System Requirements
   - Hardware Requirements:
      1. System			: 	Windows  7/8
      2.  Hard Disk      : 	50 GB.
